@@ -1,3 +1,5 @@
+## Class
+
 __Class__ 是一种抽象概念，比如我们定义的 Class——Student，是指学生这个概念，而实例（__Instance__）则是一个个具体的Student.
 
 
@@ -11,5 +13,13 @@ __Class__ 是一种抽象概念，比如我们定义的 Class——Student，是
 
 class Student(object):    
                  pass
-    
+
 关键字class后面跟着类名，类名通常是大写字母开头的单词，紧接着是(object)，表示该类是从哪个类继承下来的。通常，如果没有合适的继承类，就使用object类，这是所有类最终都会继承下来的类。
+
+## dict
+
+
+_a = {} % dictionary_    
+_a[0] = 1_     
+1 in a -> False    
+0 in a -> True
