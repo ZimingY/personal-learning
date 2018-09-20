@@ -19,8 +19,8 @@ __Class__ 是一种抽象概念，比如我们定义的 Class——Student，是
 ## dict
 
 ```
-_a = {} % dictionary_    
-_a[0] = 1_     
+a = {} % dictionary   
+a[0] = 1 
 1 in a -> False    
 0 in a -> True
 ```
