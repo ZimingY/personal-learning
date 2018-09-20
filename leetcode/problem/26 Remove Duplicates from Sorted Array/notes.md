@@ -5,3 +5,12 @@ ransforms input using no __auxiliary data structure__, while a small amount of e
 input is usually __overwritten__ by the output.
 
 the strict definition of in-place algorithms includes all algorithms with __O(1)__ space complexity.
+
+
+
+## always first check if input is valid
+
+        if not A:
+            return 0
+            
+            
