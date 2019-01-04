@@ -8,4 +8,4 @@ array，string，tree，linkedlist，math
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/27%20Remove%20Element/solution.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/27%20Remove%20Element/note.md)||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/35%20Search%20Insert%20Position/solution.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/35%20Search%20Insert%20Position/notes.md)||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/53%20Maximum%20Subarray/solution.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/53%20Maximum%20Subarray/note.md)||
-|66|[Plus One](https://leetcode.com/problems/plus-one)|[python]()|[notes]()|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[python]()|easy|[notes]()|
