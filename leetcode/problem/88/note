@@ -6,3 +6,4 @@ a[:2] = [1,2] 取（2-0）个element，instead of 到第2个
 a = [1,2,3,4]
 a = a[:3] not best, actually create a copy
 best to del a[-2:], 删除后两个element
+del a[2:]
