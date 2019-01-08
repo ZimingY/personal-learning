@@ -11,4 +11,4 @@ array，string，tree，linkedlist，math
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/66/sol.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/66/note)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/88/sol.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/88/note)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/118/sol.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/118/note.md)|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[python]()|easy|[note]()|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/119/sol.py)|easy|[note]()|
