@@ -13,3 +13,4 @@ array，string，tree，linkedlist，math
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/118/sol.py)|easy|[note](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/118/note.md)|
 |*119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/119/sol.py)|easy|[note]()|
 |*121|[Best Time to Buy and Sell Stock  ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/121/sol.py)|easy|
+|122|[Best Time to Buy and Sell Stock II  ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/122/sol.py)|easy|
