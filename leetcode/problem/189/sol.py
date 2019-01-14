@@ -8,8 +8,9 @@ class Solution:
         #nums[:] = nums[-k:] + nums[:len(nums)-k]
         n = len(nums)
         k = k % n
-        nums[:] = nums[n-k:] + nums[:n-k]
+        nums[:] = nums[n-k:] + nums[:n-k] #nums[:], not nums
         
         
 # test case nums=[1],k=0, in this case nums[-k:]会output
 # 当 n<k, 需要 k % n
+# nums.insert(0,item) 从头插入新element
