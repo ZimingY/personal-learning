@@ -16,3 +16,4 @@ array，string，tree，linkedlist，math
 |122|[Best Time to Buy and Sell Stock II  ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/122/sol.py)|easy|
 |167|[Two Sum II - Input array is sorted   ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/167/sol.py)|easy|
 |169|[Majority Element    ](https://leetcode.com/problems/majority-element)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/169/sol.py)|easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[python](https://github.com/ZimingY/personal-learning/blob/master/leetcode/problem/189/sol.py)|
